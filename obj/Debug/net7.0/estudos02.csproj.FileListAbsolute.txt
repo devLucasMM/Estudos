@@ -1,0 +1,14 @@
+c:\Users\rivol\Desktop\estudos\estudos02\bin\Debug\net7.0\estudos02.exe
+c:\Users\rivol\Desktop\estudos\estudos02\bin\Debug\net7.0\estudos02.deps.json
+c:\Users\rivol\Desktop\estudos\estudos02\bin\Debug\net7.0\estudos02.runtimeconfig.json
+c:\Users\rivol\Desktop\estudos\estudos02\bin\Debug\net7.0\estudos02.dll
+c:\Users\rivol\Desktop\estudos\estudos02\bin\Debug\net7.0\estudos02.pdb
+c:\Users\rivol\Desktop\estudos\estudos02\obj\Debug\net7.0\estudos02.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rivol\Desktop\estudos\estudos02\obj\Debug\net7.0\estudos02.AssemblyInfoInputs.cache
+c:\Users\rivol\Desktop\estudos\estudos02\obj\Debug\net7.0\estudos02.AssemblyInfo.cs
+c:\Users\rivol\Desktop\estudos\estudos02\obj\Debug\net7.0\estudos02.csproj.CoreCompileInputs.cache
+c:\Users\rivol\Desktop\estudos\estudos02\obj\Debug\net7.0\estudos02.dll
+c:\Users\rivol\Desktop\estudos\estudos02\obj\Debug\net7.0\refint\estudos02.dll
+c:\Users\rivol\Desktop\estudos\estudos02\obj\Debug\net7.0\estudos02.pdb
+c:\Users\rivol\Desktop\estudos\estudos02\obj\Debug\net7.0\estudos02.genruntimeconfig.cache
+c:\Users\rivol\Desktop\estudos\estudos02\obj\Debug\net7.0\ref\estudos02.dll
